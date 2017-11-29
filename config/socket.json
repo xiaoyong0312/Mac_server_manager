@@ -1,0 +1,18 @@
+{
+  "nodejs": "3000",
+  "tomcat": "8080",
+  "weex": "12580",
+  "Nginx": "18000",
+  "CSS": "18010",
+  "react": "18020",
+  "reactNative": "18030",
+  "weexWeb": "18040",
+  "weexAndroid": "18050",
+  "weexIOS": "18060",
+  "nodePPT": "18070",
+  "JavaWeb": "18080",
+  "ES6": "18081",
+  "dock": "18090",
+  "python": "18100",
+  "go": "18110"
+}
