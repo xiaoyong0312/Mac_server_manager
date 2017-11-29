@@ -1,6 +1,8 @@
 # Mac_server_manager
 Mac_server_manager
 
+0、 .gitignore 是在gitHub 中新建项目时添加的，所以不能修改；
+
 ## Mac server port manage
 
 一、 纯 nodeJS 方式 启动、管理；
